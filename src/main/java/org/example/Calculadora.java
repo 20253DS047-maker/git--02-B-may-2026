@@ -10,4 +10,8 @@ public class Calculadora {
         this.num2 = num2;
     }
 
+    public double restar(){
+        return num1 - num2;
+    }
+
 }
