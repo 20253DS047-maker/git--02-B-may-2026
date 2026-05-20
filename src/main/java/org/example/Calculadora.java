@@ -9,5 +9,9 @@ public class Calculadora {
         this.num1 = num1;
         this.num2 = num2;
     }
+    public double suma(){
+        return num1 + num2;
+    }
+
 
 }
