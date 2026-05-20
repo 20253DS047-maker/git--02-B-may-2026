@@ -14,4 +14,8 @@ public class Calculadora {
     }
 
 
+    public double restar(){
+        return num1 - num2;
+    }
+
 }
